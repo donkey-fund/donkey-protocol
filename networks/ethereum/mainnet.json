@@ -1,0 +1,221 @@
+{
+  "Controller" : "0x55e41bc3a99aa24E194D507517b1e8b65eFdAa9e",
+  "InterestRateModel" : {
+    "Stable" : "0x2aDB8188B4Eef492C55621ff9F3fA43260bdacfc",
+    "Risky" : "0xDBc9859bD8D8eCFDf777E05a9b6690Db318aF454"
+  },
+  "DON" : "0x4576E6825B462b6916D2a41E187626E9090A92c6",
+  "PriceOralceView" : "0x44EA07640609E60Ad0CFC27E9D63b68a1E240a13",
+  "Staking" : {
+    "1Month" : "0x4f2ED52bC4CbdE54e2b3547D3758474A21598D7c",
+    "3Month" : "0x024510151204DeC56Cc4D54ed064f62efAC264d5",
+    "6Month" : "0x2EacD2D7cF5Cba9dA031C0a9C5d7FDeDc056216C",
+    "1Year" : "0x8c9886Aca8B6984c10F988078C5e1D91976dFD16"
+  },
+  "VDON" : "0x849823a9FAE664d7df34AFd82139C7f5a906e916",
+  "VDONStaking" : {
+    "WithInterest" : "0x63D21dBD5A30940C605d77882D065736e8fffC94",
+    "NonInterest" : "0x78CCb22B368B7DcF946276b7f4dEd33D0026452C"
+  },
+  "DTokens" : [
+    {
+      "symbol": "dSTPT",
+      "underlyingSymbol": "STPT",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x76081093616e8cba6fb3822357e3Af1FDB8E5faF",
+      "underlyingContractAddress": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+    },
+    {
+      "symbol": "dKNC",
+      "underlyingSymbol": "KNC",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xCC62B24a9fC939502feE6269402329b90C91b847",
+      "underlyingContractAddress": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202"
+    },
+    {
+      "symbol": "dSNT",
+      "underlyingSymbol": "SNT",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xeB167917A8f2Bf28d22CaBb03EC597c386E04079",
+      "underlyingContractAddress": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+    },
+    {
+      "symbol": "dPOLY",
+      "underlyingSymbol": "POLY",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x30635728B43596Fd07A855af332f82cFFa95D80B",
+      "underlyingContractAddress": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
+    },
+    {
+      "symbol": "dDON",
+      "underlyingSymbol": "DON",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xc1d7187A3ab7828443A218071b9c71b51044bF2d",
+      "underlyingContractAddress": "0x4576E6825B462b6916D2a41E187626E9090A92c6"
+    },
+    {
+      "symbol": "dAXS",
+      "underlyingSymbol": "AXS",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xBBdc8d915BF30d53df420eCb5dc2D8FB4538Ed8a",
+      "underlyingContractAddress": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+    },
+    {
+      "symbol": "dELF",
+      "underlyingSymbol": "ELF",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xf732FdDb3c5cC0aD7215D3dB4875a94E67a09C26",
+      "underlyingContractAddress": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e"
+    },
+    {
+      "symbol": "dOMG",
+      "underlyingSymbol": "OMG",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x6a4FB30DcB6fc184ACF3c306081930f234d5A143",
+      "underlyingContractAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    },
+    {
+      "symbol": "dWBTC",
+      "underlyingSymbol": "WBTC",
+      "decimals": 8,
+      "underlyingDecimals": 8,
+      "contractAddress": "0x3a52e4863c52D15b384Be651939f8E33eE69716A",
+      "underlyingContractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+    },
+    {
+      "symbol": "dHUNT",
+      "underlyingSymbol": "HUNT",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x8622f8d39cAEA7f85EE1d50aF2e4479fa2012923",
+      "underlyingContractAddress": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
+    },
+    {
+      "symbol": "dETH",
+      "underlyingSymbol": "ETH",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xEc0D3f28D37a3393cf09ee3aD446c485b6afDaA3"
+    },
+    {
+      "symbol": "dUSDT",
+      "underlyingSymbol": "USDT",
+      "decimals": 8,
+      "underlyingDecimals": 6,
+      "contractAddress": "0x3f5fA4Ba2e595230c3E89543f404631429D0DD26",
+      "underlyingContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    {
+      "symbol": "dLINK",
+      "underlyingSymbol": "LINK",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x8DE66D3CBb0e660EF48165F7Ef4EA35ad9625765",
+      "underlyingContractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca"
+    },
+    {
+      "symbol": "dTON",
+      "underlyingSymbol": "TON",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x6D827EbB2d6303Ff38AeA22146B9799a846904c1",
+      "underlyingContractAddress": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5"
+    },
+    {
+      "symbol": "dCHZ",
+      "underlyingSymbol": "CHZ",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x1c07bcA0ceE9FF1b93057D8af98f18D1C1E203C5",
+      "underlyingContractAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+    },
+    {
+      "symbol": "dMANA",
+      "underlyingSymbol": "MANA",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x1dca9c08E493A6a2A5ef2E3cbeD0Df2380245511",
+      "underlyingContractAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+    },
+    {
+      "symbol": "dSAND",
+      "underlyingSymbol": "SAND",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xB2ec0d90561044aA8f09844daF417C59bE5345d1",
+      "underlyingContractAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+    },
+    {
+      "symbol": "dSTORJ",
+      "underlyingSymbol": "STORJ",
+      "decimals": 8,
+      "underlyingDecimals": 8,
+      "contractAddress": "0xc31A07bD0792f8fE556D607776ff4F6570eFc3d5",
+      "underlyingContractAddress": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+    },
+    {
+      "symbol": "dBORA",
+      "underlyingSymbol": "BORA",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x9D6DaE758d5C2E81ea4D813caD0056e0de59c5b2",
+      "underlyingContractAddress": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
+    },
+    {
+      "symbol": "dCBK",
+      "underlyingSymbol": "CBK",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x45f9BE645c19f07c5643599435A7b106e5D8A79c",
+      "underlyingContractAddress": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD"
+    },
+    {
+      "symbol": "dPLA",
+      "underlyingSymbol": "PLA",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x9Dc533e6c168e153F0241E36E31436387631b1da",
+      "underlyingContractAddress": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430"
+    },
+    {
+      "symbol": "dMTL",
+      "underlyingSymbol": "MTL",
+      "decimals": 8,
+      "underlyingDecimals": 8,
+      "contractAddress": "0x303f5b535CBC47836D4bc8bcE99992B8d7987E43",
+      "underlyingContractAddress": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    },
+    {
+      "symbol": "dSRM",
+      "underlyingSymbol": "SRM",
+      "decimals": 8,
+      "underlyingDecimals": 6,
+      "contractAddress": "0x922bb502dE4F82C61E96133f92286b291056E356",
+      "underlyingContractAddress": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
+    },
+    {
+      "symbol": "dDAI",
+      "underlyingSymbol": "DAI",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x65ca80F2373C4943c9f0f476CF53167261E3208b",
+      "underlyingContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+    },
+    {
+      "symbol": "dUSDC",
+      "underlyingSymbol": "USDC",
+      "decimals": 8,
+      "underlyingDecimals": 6,
+      "contractAddress": "0x366a6c33FF4157b3759F5CA15AF214D407aa4844",
+      "underlyingContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    }
+  ]
+}

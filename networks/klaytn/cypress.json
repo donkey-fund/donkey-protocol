@@ -1,0 +1,91 @@
+{
+  "Controller" : "0x35dc04eE1D6E600C0d13B21FdfB5C83D022CEF25",
+  "InterestRateModel" : {
+    "Stable" : "0x8fb547BD629F2cc02f275722B5cebdB66F873EE2",
+    "Risky" : "0x80694B3BC789d0B07F8d82Ec8909cBa53a0EE5b1"
+  },
+  "PriceOracleView" : "0x2299dcfdec881f8b5169b7033b4bd2a6b337655f",
+  "kDON" : "0x5388ce775de8f7a69d17fd5caa9f7dbfee65dfce",
+  "Maximillion" : "0xeC992c527659445EfA1654F283BBFc3D38A3e6fd",
+  "DTokens" : [
+    {
+      "symbol": "dkDON",
+      "underlyingSymbol": "kDON",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x1E935b6A81208DBA26a8063277551886625E0bE6",
+      "underlyingContractAddress": "0x5388ce775de8f7a69d17fd5caa9f7dbfee65dfce"
+    },
+    {
+      "name": "dKLAY",
+      "symbol": "dKLAY",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xACC72a0cA4E85f79876eD4C5E6Ea29BE1cD26c2e"
+    },
+    {
+      "name": "dKETH",
+      "symbol": "dKETH",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x4Ca4282C39Fe621152244eA693c28Fbe2Aa78a18",
+      "underlyingContractAddress": "0x34d21b1e550d73cee41151c77f3c73359527a396"
+    },
+    {
+      "name": "dKSP",
+      "symbol": "dKSP",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xC820e7b1EC1077Da8667149632A1A41a506cA690",
+      "underlyingContractAddress": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654"
+    },
+    {
+      "name": "dKUSDT",
+      "symbol": "dKUSDT",
+      "decimals": 6,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xC55F4F5fe1EE6C4C2f391fDc28e31445cDBf58af",
+      "underlyingContractAddress": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167"
+    },
+    {
+      "name": "dKXRP",
+      "symbol": "dKXRP",
+      "decimals": 6,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x26105e8880473bc53D591baAf0Fbf3995D1B4a3A",
+      "underlyingContractAddress": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f"
+    },
+    {
+      "symbol": "dKWBTC",
+      "underlyingSymbol": "KWBTC",
+      "decimals": 8,
+      "underlyingDecimals": 8,
+      "contractAddress": "0x12b472a6250B7536183ce6eA25D4219c5d0cC3c0",
+      "underlyingContractAddress": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c"
+    },
+    {
+      "symbol": "dKUSDC",
+      "underlyingSymbol": "KUSDC",
+      "decimals": 8,
+      "underlyingDecimals": 6,
+      "contractAddress": "0x4B3000BbBb19a0B009C12a8a1117B6fDF208595c",
+      "underlyingContractAddress": "0x754288077d0ff82af7a5317c7cb8c444d421d103"
+    },
+    {
+      "symbol": "dKDAI",
+      "underlyingSymbol": "KDAI",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x5B0B4772865F54C8662067D36B77A2ADC2E05929",
+      "underlyingContractAddress": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b"
+    },
+    {
+      "symbol": "dWEMIX",
+      "underlyingSymbol": "WEMIX",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0xE537a7658700537589E00EA8f772F7cC1050CfCE",
+      "underlyingContractAddress": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd"
+    }
+  ]
+}
