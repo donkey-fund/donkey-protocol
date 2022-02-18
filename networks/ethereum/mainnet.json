@@ -17,6 +17,9 @@
     "WithInterest" : "0x63D21dBD5A30940C605d77882D065736e8fffC94",
     "NonInterest" : "0x78CCb22B368B7DcF946276b7f4dEd33D0026452C"
   },
+  "DonkeyView" : {
+    "0xAaf37d6D86E916df06C9981a4bA837e31983C4fF"
+  },
   "DTokens" : [
     {
       "symbol": "dSTPT",

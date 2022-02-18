@@ -7,6 +7,7 @@
   "PriceOracleView" : "0x2299dcfdec881f8b5169b7033b4bd2a6b337655f",
   "kDON" : "0x5388ce775de8f7a69d17fd5caa9f7dbfee65dfce",
   "Maximillion" : "0xeC992c527659445EfA1654F283BBFc3D38A3e6fd",
+  "DonkeyView" : "0xAaf37d6D86E916df06C9981a4bA837e31983C4fF",
   "DTokens" : [
     {
       "symbol": "dkDON",
