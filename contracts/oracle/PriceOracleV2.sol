@@ -95,7 +95,7 @@ contract PriceOracleV2 is CarefulMath {
       return price * krw * 1e18 * 1e12 / 10 ** decimal;
       
     } else if (symbol == bytes32("KNC")) {
-      (uint price, uint decimal) = getData(ETH_USD);
+      (uint price, uint decimal) = getData(KNC_USD);
 
       // decimal: 18
       return price * krw * 1e18 / 10 ** decimal;
