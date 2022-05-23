@@ -87,6 +87,20 @@
       "underlyingDecimals": 18,
       "contractAddress": "0xE537a7658700537589E00EA8f772F7cC1050CfCE",
       "underlyingContractAddress": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd"
-    }
+    },
+    {
+      "symbol": "dBORA",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x8c38D8137D64049D45bA47ff9141c0AE3b28d3C5",
+      "underlyingContractAddress": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
+    },
+    {
+      "symbol": "dIJM",
+      "decimals": 8,
+      "underlyingDecimals": 18,
+      "contractAddress": "0x80e283B1f9Fa024F8314e68dc81c348e63bAB092",
+      "underlyingContractAddress": "0x0268dbed3832b87582b1fa508acf5958cbb1cd74",
+    },
   ]
 }
